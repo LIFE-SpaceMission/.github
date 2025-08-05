@@ -20,7 +20,7 @@ LIFE is an active and collaborative project. Below is a list of all GitHub repos
 - [Konrad+2023](https://github.com/LIFE-SpaceMission/Konrad2023_LIFESeries-IX) - _Large Interferometer For Exoplanets (LIFE) IX. Assessing the impact of clouds on atmospheric retrievals at mid-infrared wavelengths with a Venus-twin exoplanet_
 - [Mettler+2024](https://github.com/LIFE-SpaceMission/Mettler2024_Earth-as-Exoplanet) - _Earth as an Exoplanet. III. Using Empirical Thermal Emission Spectra as an Input for Atmospheric Retrieval of an Earth-twin Exoplanet_
 - [Konrad+2024](https://github.com/LIFE-SpaceMission/Konrad2024_Pursuing-Truth) -  _Pursuing Truth: Improving Retrievals on Mid-infrared Exo-Earth Spectra with Physically Motivated Water Abundance Profiles and Cloud Models_
-
+- [Angerhausen+2022](https://github.com/LIFE-SpaceMission/Angerhausen2022_LIFESeries-VIII.git) -  _Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer_
 
 
 ----------
