@@ -17,10 +17,12 @@ LIFE is an active and collaborative project. Below is a list of all GitHub repos
 
 ### Data from published papers
 - [Konrad+2022](https://github.com/LIFE-SpaceMission/Konrad2022_LIFESeries-III) - _Large Interferometer For Exoplanets (LIFE) III. Spectral resolution, wavelength range, and sensitivity requirements based on atmospheric retrieval analyses of an exo-Earth_
+- [Alei+2022](https://github.com/LIFE-SpaceMission/Alei2022_LIFESeries-V) - _Large Interferometer For Exoplanets (LIFE) V. Diagnostic potential of a mid-infrared space interferometer for studying Earth analogs_
+- [Angerhausen+2022](https://github.com/LIFE-SpaceMission/Angerhausen2022_LIFESeries-VIII.git) -  _Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer_
 - [Konrad+2023](https://github.com/LIFE-SpaceMission/Konrad2023_LIFESeries-IX) - _Large Interferometer For Exoplanets (LIFE) IX. Assessing the impact of clouds on atmospheric retrievals at mid-infrared wavelengths with a Venus-twin exoplanet_
 - [Mettler+2024](https://github.com/LIFE-SpaceMission/Mettler2024_Earth-as-Exoplanet) - _Earth as an Exoplanet. III. Using Empirical Thermal Emission Spectra as an Input for Atmospheric Retrieval of an Earth-twin Exoplanet_
 - [Konrad+2024](https://github.com/LIFE-SpaceMission/Konrad2024_Pursuing-Truth) -  _Pursuing Truth: Improving Retrievals on Mid-infrared Exo-Earth Spectra with Physically Motivated Water Abundance Profiles and Cloud Models_
-- [Angerhausen+2022](https://github.com/LIFE-SpaceMission/Angerhausen2022_LIFESeries-VIII.git) -  _Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer_
+
 - [Angerhausen+2024](https://github.com/LIFE-SpaceMission/Angerhausen2024_LIFESeries-XII) -  _Large Interferometer For Exoplanets (LIFE). XII. The Detectability of Capstone Biosignatures in the Mid-infrared—Sniffing Exoplanetary Laughing Gas and Methylated Halogens_
 
 
