@@ -12,7 +12,7 @@ LIFE is an active and collaborative project. Below is a list of all GitHub repos
 
 ### Algorithms and resources
 - LIFEsim
-- LIFE retrieval
+- [LIFE Retrieval Framework](https://github.com/LIFE-SpaceMission/LIFE-Retrieval-Framework)
 - LIFE catalog
 
 ### Data from published papers
